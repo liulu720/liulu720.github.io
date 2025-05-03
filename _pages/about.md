@@ -27,14 +27,16 @@ My research interests include intelligent connected transportation systems, mult
 
 - [A Multi-Agent Rollout Approach for Highway Bottleneck Decongestion in Mixed Autonomy](https://ieeexplore.ieee.org/abstract/document/10920050)
 
- **Liu, L.**, Wang, M., Pun, M., and Xiong, X.
+  **Liu, L.**, Wang, M., Pun, M., and Xiong, X.
  
- In 27th IEEE International Conference on Intelligent Transportation Systems, ITSC 2024.
+  In 27th IEEE International Conference on Intelligent Transportation Systems, ITSC 2024.
+  
 - [Reinforcement Learning from Human Feedback for Lane Changing of Autonomous Vehicles in Mixed Traffic](https://arxiv.org/html/2408.04447)
 
   Wang, Y., **Liu, L.**, Wang, M., and Xiong, X.
 
   In Transportation Research Board 104th Annual Meeting, TRB 2025.
+  
 - [Combining Policy Gradient and Safety-based Control for Autonomous Driving](https://arxiv.org/abs/1612.00147)
 
   Xiong, X. and **Liu, L**.
@@ -60,6 +62,7 @@ My research interests include intelligent connected transportation systems, mult
 - *2024.07*, Give a speech at CICTP 2024 held in Shenzhen, China.
 
   The speech is titled "Combining Policy Gradient and Safety-based Control for Autonomous Driving."
+  
 - *2024.09*, Give a speech at IEEE ITSC 2024 held in Edmonton, Canada.
 
    The speech title is "A Multi-Agent Rollout Approach for Highway Bottleneck Decongestion in Mixed Autonomy."
