@@ -35,8 +35,13 @@ I am currently a PhD student majoring in Transportation Engineering  at [the Sch
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.12*，National Scholarship (Undergraduate)
+- *2021.04*，Meritorious Winner in 2021 Interdisciplinary Contest in Modeling
+- *2021.11*，First Prize in the undergraduate Group of the 2021 National College Students' Mathematical Modeling Contest, Sponsored by Higher Education Press
+- *2021.12*，National Scholarship (Undergraduate)
+- *2022.12*，National Scholarship (Undergraduate)
+- *2023.07*，Outstanding Graduate of Colleges and Universities in Shaanxi Province
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
