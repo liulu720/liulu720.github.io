@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lu Liu/Personal Website"
-description              : "0"
+description              : "我目前是同济大学交通工程专业的博士研究生，师从熊溪老师，谢驰老师。我的研究兴趣包括智能网联交通系统、多智能体协同，强化学习，模型预测控制等。"
 repository               : "liulu720/liulu720.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lu Liu(刘露)"
   avatar           : "picture liu.png"
-  bio              : "Tongji College"
+  bio              : "Tongji University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
