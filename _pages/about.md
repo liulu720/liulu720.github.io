@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-0123456789
-
-012354456798
+I am currently a PhD student majoring in Transportation Engineering at Tongji University, under the supervision of Professors Xiong Xi, Xie Chi and Ou Dongxiu. My research interests include intelligent connected transportation systems, multi-agent collaboration, reinforcement learning, model predictive control, etc.
 
 
 # 🔥 News
