@@ -20,14 +20,12 @@ redirect_from:
 I am currently a PhD student majoring in Transportation Engineering at Tongji University, under the supervision of Professors Xiong Xi, Xie Chi and Ou Dongxiu. My research interests include intelligent connected transportation systems, multi-agent collaboration, reinforcement learning, model predictive control, etc.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: 78945615235
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- Liu, L., Wang, M., Pun, M., and Xiong, X. A Multi-Agent Rollout Approach for Highway Bottleneck Decongestion in Mixed Autonomy. In 27th IEEE International Conference on Intelligent Transportation Systems, ITSC 2024.
+- Wang, Y., Liu, L., Wang, M., and Xiong, X. Reinforcement Learning from Human Feedback for Lane Changing of Autonomous Vehicles in Mixed Traffic. In Transportation Research Board 104th Annual Meeting, TRB 2025.
+- Xiong, X. and Liu, L. Combining Policy Gradient and Safety-based Control for Autonomous Driving. In 24th COTA International Conference of Transportation Professional, CICTP 2024.
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
@@ -52,5 +50,4 @@ I am currently a PhD student majoring in Transportation Engineering at Tongji Un
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
