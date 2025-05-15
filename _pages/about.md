@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate in Transportation Engineering at [the College of Transportation, Tongji University](https://tjjt.tongji.edu.cn/), where I work under the supervision of Dr. Xi Xiong (Research Professor), Prof. Chi Xie, and Prof. Dongxiu Ou. 
+I am currently a Ph.D. candidate in Transportation Engineering at [the College of Transportation, Tongji University](https://tjjt.tongji.edu.cn/), where I work under the supervision of Dr. Xiong Xi (Research Professor), Prof. Xie Chi, and Prof. Ou Dongxiu. 
 
 My research focuses on connected and automated transportation systems, multi-agent coordination, reinforcement learning, model predictive control, etc.
 
@@ -45,17 +45,16 @@ My research focuses on connected and automated transportation systems, multi-age
 
 # 🎖 Honors and Awards
 - *2020.12*，National Scholarship (Undergraduate).
-- *2021.04*，Meritorious Winner in 2021 Interdisciplinary Contest in Modeling.
-- *2021.11*，First Prize in the undergraduate Group of the 2021 National College Students' Mathematical Modeling Contest, Sponsored by Higher Education Press.
+- *2021.04*，Meritorious Winner, Interdisciplinary Contest in Modeling.
+- *2021.11*，First Prize, National Undergraduate Mathematical Contest in Modeling.
 - *2021.12*，National Scholarship (Undergraduate).
 - *2022.12*，National Scholarship (Undergraduate).
-- *2023.07*，Outstanding Graduate of Colleges and Universities in Shaanxi Province.
+- *2023.07*，Outstanding Graduate of Shaanxi Province Universities.
 
 
 # 📖 Educations
-- *2019.09-2023.06*, Chang 'an University, College of Electronic and Control Engineering, Bachelor's Degree, Xi 'an.
-- *2023.09- Present*, Tongji University, College of Transportation, PhD Student, Shanghai.
-
+- *2019.09-2023.06*, B.Eng. in Automation Engineering, College of Electronic and Control Engineering, Chang’an University | Xi’an, China.
+- *2023.09- Present*, Ph.D. Candidate in Transportation Engineering, College of Transportation, Tongji University | Shanghai, China.
 
 # 💬 Invited Talks
 - *2024.07*, Give a speech at CICTP 2024 held in Shenzhen, China.
