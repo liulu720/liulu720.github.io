@@ -59,10 +59,10 @@ My research focuses on connected and automated transportation systems, multi-age
 - College of Transportation, Tongji University | Shanghai, China.
 
 # 💬 Invited Talks
-- *2024.07*, Give a speech at CICTP 2024 held in Shenzhen, China.
+- *2024.07*, Oral Presentation, CICTP 2024, Shenzhen, China.
 
-  The speech is titled "Combining Policy Gradient and Safety-based Control for Autonomous Driving."
+  Combining Policy Gradient and Safety-based Control for Autonomous Driving.
   
-- *2024.09*, Give a speech at IEEE ITSC 2024 held in Edmonton, Canada.
+- *2024.09*, Oral Presentation, IEEE ITSC 2024, Edmonton, Canada.
 
-   The speech title is "A Multi-Agent Rollout Approach for Highway Bottleneck Decongestion in Mixed Autonomy."
+   A Multi-Agent Rollout Approach for Highway Bottleneck Decongestion in Mixed Autonomy.
