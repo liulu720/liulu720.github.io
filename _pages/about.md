@@ -53,8 +53,10 @@ My research focuses on connected and automated transportation systems, multi-age
 
 
 # 📖 Educations
-- *2019.09-2023.06*, B.Eng. in Automation Engineering, College of Electronic and Control Engineering, Chang’an University | Xi’an, China.
-- *2023.09- Present*, Ph.D. Candidate in Transportation Engineering, College of Transportation, Tongji University | Shanghai, China.
+- *2019.09-2023.06*, B.Eng. in Automation Engineering,
+- College of Electronic and Control Engineering, Chang’an University | Xi’an, China.
+- *2023.09- Present*, Ph.D. Candidate in Transportation Engineering,
+- College of Transportation, Tongji University | Shanghai, China.
 
 # 💬 Invited Talks
 - *2024.07*, Give a speech at CICTP 2024 held in Shenzhen, China.
