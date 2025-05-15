@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student majoring in Transportation Engineering  at [the College of Transportation, Tongji University](https://tjjt.tongji.edu.cn/), under the supervision of Professors Xiong Xi, Xie Chi and Ou Dongxiu. 
+I am currently a Ph.D. candidate in Transportation Engineering at [the College of Transportation, Tongji University](https://tjjt.tongji.edu.cn/), where I work under the supervision of Dr. Xi Xiong (Research Professor), Prof. Chi Xie, and Prof. Dongxiu Ou. 
 
-My research interests include intelligent connected transportation systems, multi-agent collaboration, reinforcement learning, model predictive control, etc.
-
+My research focuses on connected and automated transportation systems, multi-agent coordination, reinforcement learning, model predictive control, etc.
 
 
 # 📝 Publications 
