@@ -54,8 +54,8 @@ My research interests include intelligent connected transportation systems, mult
 
 
 # 📖 Educations
-- *2019.09-2023.06*, Chang 'an University, School of Electronic and Control Engineering, Bachelor's Degree, Xi 'an.
-- *2023.09- Present*, Tongji University, School of Transportation, PhD Student, Shanghai.
+- *2019.09-2023.06*, Chang 'an University, College of Electronic and Control Engineering, Bachelor's Degree, Xi 'an.
+- *2023.09- Present*, Tongji University, College of Transportation, PhD Student, Shanghai.
 
 
 # 💬 Invited Talks
