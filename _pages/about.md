@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate in Transportation Engineering at [the College of Transportation, Tongji University](https://tjjt.tongji.edu.cn/), where I work under the supervision of [Dr. Xiong Xi (Research Professor)](https://tjjt.tongji.edu.cn/info/2996/9880.htm), [Prof. Xie Chi](https://tjjt.tongji.edu.cn/info/2996/9470.htm), and [Prof. Ou Dongxiu](https://tjjt.tongji.edu.cn/info/2996/9479.htm). 
+I am currently a Ph.D. candidate in Transportation Engineering at [the College of Transportation, Tongji University](https://tjjt.tongji.edu.cn/), where I work under the supervision of Dr. [Xiong Xi](https://tjjt.tongji.edu.cn/info/2996/9880.htm) (Research Professor), Prof. [Xie Chi](https://tjjt.tongji.edu.cn/info/2996/9470.htm), and Prof. [Ou Dongxiu](https://tjjt.tongji.edu.cn/info/2996/9479.htm). 
 
 My research focuses on connected and automated transportation systems, multi-agent coordination, reinforcement learning, model predictive control, etc.
 
